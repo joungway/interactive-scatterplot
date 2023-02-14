@@ -7,3 +7,4 @@ A scatter plot, using D3.js, shows the relationship of people with different eco
 - Interaction: a hover event for a dynamic tool tip will appear when rolling over the dots and show the data associated with dots
 
 ### Visual Representation
+![scatterpot](/output/visuals.png "Scatterpot")
