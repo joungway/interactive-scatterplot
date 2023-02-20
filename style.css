@@ -1,0 +1,43 @@
+body{
+    background-color: #ccc;
+    width: 100%;
+}
+
+#chart{
+    background-color: #ccc;
+    width: 1000px;
+    height:500px;
+    margin:50px auto;
+    border: solid 1px #999;
+}
+
+svg{
+    background-color: #fff;
+}
+
+/* .dot{
+    stroke: #666;
+    stroke-width: 0.25px;
+} */
+
+.axis line, .axis path{
+    stroke: #bbb;
+}
+
+.axis text{
+    fill: #bbb;
+}
+
+.axisLabel{
+    fill: #bbb;
+    font: sans-serif;
+    font-size: 10px;
+}
+
+.tooltip{
+    visibility: hidden;
+    position: absolute;
+    background-color: #fff;
+    padding: 20px;
+    border: solid 1px #CCCCFF;
+}
